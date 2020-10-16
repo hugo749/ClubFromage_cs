@@ -1,0 +1,13 @@
+C:\Users\SIO2\Desktop\ClubFromage_cs\bin\Debug\netcoreapp3.1\ClubFromage_cs.exe
+C:\Users\SIO2\Desktop\ClubFromage_cs\bin\Debug\netcoreapp3.1\ClubFromage_cs.deps.json
+C:\Users\SIO2\Desktop\ClubFromage_cs\bin\Debug\netcoreapp3.1\ClubFromage_cs.runtimeconfig.json
+C:\Users\SIO2\Desktop\ClubFromage_cs\bin\Debug\netcoreapp3.1\ClubFromage_cs.runtimeconfig.dev.json
+C:\Users\SIO2\Desktop\ClubFromage_cs\bin\Debug\netcoreapp3.1\ClubFromage_cs.dll
+C:\Users\SIO2\Desktop\ClubFromage_cs\bin\Debug\netcoreapp3.1\ClubFromage_cs.pdb
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.csprojAssemblyReference.cache
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.AssemblyInfoInputs.cache
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.AssemblyInfo.cs
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.csproj.CoreCompileInputs.cache
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.dll
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.pdb
+C:\Users\SIO2\Desktop\ClubFromage_cs\obj\Debug\netcoreapp3.1\ClubFromage_cs.genruntimeconfig.cache
