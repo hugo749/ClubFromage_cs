@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -94,6 +93,8 @@ namespace model.data
             Console.WriteLine(deux.Nom);
             return deux;
         }
+
+        
 
     }
 }

@@ -17,6 +17,7 @@ namespace DEB
 
         static void Main(string[] arg)
         {
+            
 
             dbal ledbal = new dbal();
             //FP.Execquery("INSERT INTO Pays (id, nom) values (1, 'France')");
@@ -37,7 +38,7 @@ namespace DEB
 
 
 
-            //pays.InsertByFile("C:\\Users\\SIO2\\Desktop\\ClubFromageCS-main\\DEB\\pays.csv");
+            pays.InsertByFile("C://Users//SIO2//Desktop//ClubFromage_cs//bin//Debug//netcoreapp3.1//pays.csv");
 
 
             DataSet lesPays = ledbal.RQuery("SELECT * FROM Pays");
